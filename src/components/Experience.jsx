@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react'
-import git from '../assets/experience/Git.png'
-import docker from '../assets/experience/Docker.png'
-import jenkins from '../assets/experience/Jenkins.png'
-import kubernetes from '../assets/experience/Kubernetes.png'
-import ansible from '../assets/experience/Ansible.png'
-import terraform from '../assets/experience/Terraform.png'
-import prometheus from '../assets/experience/Prometheus.png'
-import grafana from '../assets/experience/Grafana.png'
+import html from '../assets/experience/html.png'
+import css from '../assets/experience/css.png'
+import javascript from '../assets/experience/javascript.png'
+import node from '../assets/experience/node.png'
+import flutter from '../assets/experience/flutter.png'
+import firebase from '../assets/experience/firebase.png'
+import react from '../assets/experience/react.png'
+import tailwind from '../assets/experience/tailwind.png'
 import python from '../assets/experience/Python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -19,50 +19,50 @@ const Experience = () => {
     const techs = () => [
         {
             id: 1,
-            scr: Git,
-            title: 'Git-Github',
+            scr: html,
+            title: 'HTML',
             style: 'shadow-orange-500'
         },
         {
             id: 2,
-            scr: Docker,
-            title: 'Docker',
+            scr: css,
+            title: 'CSS',
             style: 'shadow-blue-500'
         },
         {
             id: 3,
-            scr: Jenkins,
-            title: 'Jenkins',
+            scr: javascript,
+            title: 'JAVASCRIPT',
             style: 'shadow-yellow-500'
         },
         {
             id: 4,
-            scr: Kubernetes,
-            title: 'Kubernetes',
+            scr: react,
+            title: 'REACT',
             style: 'shadow-blue-600'
         },
         {
             id: 5,
-            scr: Ansible,
-            title: 'Ansible',
+            scr: tailwind,
+            title: 'Tailwind',
             style: 'shadow-sky-500'
         },
         {
             id: 6,
-            scr: Terraform,
-            title: 'Terraform',
+            scr: node,
+            title: 'Node JS',
             style: 'shadow-green-500'
         },
         {
             id: 7,
-            scr: Prometheus,
-            title: 'Prometheus',
+            scr: flutter,
+            title: 'Flutter',
             style: 'shadow-cyan-800'
         },
         {
             id: 8,
-            scr: Grafana,
-            title: 'Grafana',
+            scr: firebase,
+            title: 'Firebase',
             style: 'shadow-yellow-800'
         },
         {
@@ -79,7 +79,7 @@ const Experience = () => {
             <div className='max-w-screen-lg max-h-screen-lg p-4 mx-auto flex flex-col justify-center w-full '>
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-400'>Skills</p>
-                    <p className='py-6'>These are the Devops technologies I've worked with</p>
+                    <p className='py-6'>This are the technologies I've worked with</p>
                 </div>
 
                 <div className='w-full h-full grid grid-cols-2 text-center sm:grid-cols-3 gap-8 px-12 sm:px-0'>
