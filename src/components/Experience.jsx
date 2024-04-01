@@ -7,7 +7,7 @@ import flutter from '../assets/experience/flutter.png'
 import firebase from '../assets/experience/firebase.png'
 import react from '../assets/experience/react.png'
 import tailwind from '../assets/experience/tailwind.png'
-import python from '../assets/experience/Python.png'
+import python from '../assets/experience/python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -67,8 +67,8 @@ const Experience = () => {
         },
         {
             id: 9,
-            scr: Python,
-            title: 'Python',
+            scr: python,
+            title: 'python',
             style: 'shadow-blue-400'
         }
     ]
