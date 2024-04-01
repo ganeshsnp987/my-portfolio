@@ -56,7 +56,7 @@ const Experience = () => {
         {
             id: 7,
             scr: prometheus,
-            title: 'prometheus',
+            title: 'Prometheus',
             style: 'shadow-cyan-800'
         },
         {
