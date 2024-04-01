@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.147e1eb3.css",
-    "main.js": "/my-portfolio/static/js/main.bd2ecd83.js",
+    "main.js": "/my-portfolio/static/js/main.bb5fd3bd.js",
     "static/js/787.d9cf00ba.chunk.js": "/my-portfolio/static/js/787.d9cf00ba.chunk.js",
     "static/media/sandeshh.png": "/my-portfolio/static/media/sandeshh.9a26ae5b9d5cbbe7d299.png",
     "static/media/chatbot.png": "/my-portfolio/static/media/chatbot.05a026cf826e4bc579b7.png",
@@ -9,23 +9,21 @@
     "static/media/Kubernetes.png": "/my-portfolio/static/media/Kubernetes.ce1f338cb33ce1911140.png",
     "static/media/shopeasy.png": "/my-portfolio/static/media/shopeasy.7d9a081d08b506c1505a.png",
     "static/media/ide.png": "/my-portfolio/static/media/ide.e76b9b8f6be04b540365.png",
+    "static/media/Grafana.png": "/my-portfolio/static/media/Grafana.f9dccfda288a01225433.png",
     "static/media/gist.png": "/my-portfolio/static/media/gist.8d02a91c4a4b6595cca8.png",
     "static/media/python.png": "/my-portfolio/static/media/python.c51d40980f76d37e747d.png",
     "static/media/Ganesh_Dp.jpeg": "/my-portfolio/static/media/Ganesh_Dp.bed514ac81aedf995478.jpeg",
     "static/media/Docker.png": "/my-portfolio/static/media/Docker.6d1afdb456643d603142.png",
-    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/firebase.png": "/my-portfolio/static/media/firebase.3e7acd50598326c1c15c.png",
-    "static/media/node.png": "/my-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/flutter.png": "/my-portfolio/static/media/flutter.ed72a48ae8dedc1bde5f.png",
-    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/Ansible.png": "/my-portfolio/static/media/Ansible.7368ce1f606a44f4727f.png",
+    "static/media/Prometheus.png": "/my-portfolio/static/media/Prometheus.b38310b3a8c1a52e1c51.png",
+    "static/media/Terraform.png": "/my-portfolio/static/media/Terraform.bd24e438b686b0d14560.png",
     "index.html": "/my-portfolio/index.html",
     "main.147e1eb3.css.map": "/my-portfolio/static/css/main.147e1eb3.css.map",
-    "main.bd2ecd83.js.map": "/my-portfolio/static/js/main.bd2ecd83.js.map",
+    "main.bb5fd3bd.js.map": "/my-portfolio/static/js/main.bb5fd3bd.js.map",
     "787.d9cf00ba.chunk.js.map": "/my-portfolio/static/js/787.d9cf00ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147e1eb3.css",
-    "static/js/main.bd2ecd83.js"
+    "static/js/main.bb5fd3bd.js"
   ]
 }
