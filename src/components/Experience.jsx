@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react'
-import html from '../assets/experience/html.png'
+import git from '../assets/experience/Git.png'
 import docker from '../assets/experience/Docker.png'
 import kubernetes from '../assets/experience/Kubernetes.png'
-import node from '../assets/experience/node.png'
-import flutter from '../assets/experience/flutter.png'
-import firebase from '../assets/experience/firebase.png'
-import react from '../assets/experience/react.png'
-import tailwind from '../assets/experience/tailwind.png'
+import ansible from '../assets/experience/Ansible.png'
+import terraform from '../assets/experience/Terraform.png'
+import jenkins from '../assets/experience/Jenkins.png'
+import prometheus from '../assets/experience/Prometheus.png'
+import grafana from '../assets/experience/Grafana.png'
 import python from '../assets/experience/python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -19,8 +19,8 @@ const Experience = () => {
     const techs = () => [
         {
             id: 1,
-            scr: html,
-            title: 'HTML',
+            scr: git,
+            title: 'Git',
             style: 'shadow-orange-500'
         },
         {
@@ -37,32 +37,32 @@ const Experience = () => {
         },
         {
             id: 4,
-            scr: react,
-            title: 'REACT',
+            scr: ansible,
+            title: 'Ansible',
             style: 'shadow-blue-600'
         },
         {
             id: 5,
-            scr: tailwind,
-            title: 'Tailwind',
+            scr: terraform,
+            title: 'Terraform',
             style: 'shadow-sky-500'
         },
         {
             id: 6,
-            scr: node,
-            title: 'Node JS',
+            scr: jenkins,
+            title: 'Jenkins',
             style: 'shadow-green-500'
         },
         {
             id: 7,
-            scr: flutter,
-            title: 'Flutter',
+            scr: prometheus,
+            title: 'prometheus',
             style: 'shadow-cyan-800'
         },
         {
             id: 8,
-            scr: firebase,
-            title: 'Firebase',
+            scr: grafana,
+            title: 'Grafana',
             style: 'shadow-yellow-800'
         },
         {
