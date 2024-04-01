@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import html from '../assets/experience/html.png'
 import docker from '../assets/experience/Docker.png'
-import javascript from '../assets/experience/javascript.png'
+import kubernetes from '../assets/experience/Kubernetes.png'
 import node from '../assets/experience/node.png'
 import flutter from '../assets/experience/flutter.png'
 import firebase from '../assets/experience/firebase.png'
@@ -31,8 +31,8 @@ const Experience = () => {
         },
         {
             id: 3,
-            scr: javascript,
-            title: 'JAVASCRIPT',
+            scr: kubernetes,
+            title: 'Kubernetes',
             style: 'shadow-yellow-500'
         },
         {
