@@ -25,7 +25,7 @@ const Experience = () => {
         },
         {
             id: 2,
-            scr: Docker,
+            scr: docker,
             title: 'Docker',
             style: 'shadow-blue-500'
         },
