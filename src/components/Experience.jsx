@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import html from '../assets/experience/html.png'
-import css from '../assets/experience/css.png'
+import docker from '../assets/experience/Docker.png'
 import javascript from '../assets/experience/javascript.png'
 import node from '../assets/experience/node.png'
 import flutter from '../assets/experience/flutter.png'
@@ -25,8 +25,8 @@ const Experience = () => {
         },
         {
             id: 2,
-            scr: css,
-            title: 'CSS',
+            scr: Docker,
+            title: 'Docker',
             style: 'shadow-blue-500'
         },
         {
