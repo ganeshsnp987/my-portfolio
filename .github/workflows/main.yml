@@ -21,15 +21,15 @@ jobs:
         with:
           node-version: 20
 
+      - name: Update Browserslist database
+        run: npx update-browserslist-db@latest           
+
       - name: Install dependencies
         run: npm install
 
       - name: Build Project
         run: npm run build
         
-      - name: Update Browserslist database
-        run: npx update-browserslist-db@latest  
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
