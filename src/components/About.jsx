@@ -1,101 +1,43 @@
 import React, { useEffect } from 'react'
-import html from '../assets/experience/html.png'
-import css from '../assets/experience/css.png'
-import javascript from '../assets/experience/javascript.png'
-import node from '../assets/experience/node.png'
-import flutter from '../assets/experience/flutter.png'
-import firebase from '../assets/experience/firebase.png'
-import react from '../assets/experience/react.png'
-import tailwind from '../assets/experience/tailwind.png'
-import python from '../assets/experience/python.png'
+import { AiOutlineCloudDownload } from 'react-icons/ai'
+import '../App.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
-const Experience = () => {
+const About = () => {
     useEffect(() => {
         AOS.init({ duration: 1000 })
     })
 
-    const techs = () => [
-        {
-            id: 1,
-            scr: html,
-            title: 'HTML',
-            style: 'shadow-orange-500'
-        },
-        {
-            id: 2,
-            scr: css,
-            title: 'CSS',
-            style: 'shadow-blue-500'
-        },
-        {
-            id: 3,
-            scr: javascript,
-            title: 'JAVASCRIPT',
-            style: 'shadow-yellow-500'
-        },
-        {
-            id: 4,
-            scr: react,
-            title: 'REACT',
-            style: 'shadow-blue-600'
-        },
-        {
-            id: 5,
-            scr: tailwind,
-            title: 'Tailwind',
-            style: 'shadow-sky-500'
-        },
-        {
-            id: 6,
-            scr: node,
-            title: 'Node JS',
-            style: 'shadow-green-500'
-        },
-        {
-            id: 7,
-            scr: flutter,
-            title: 'Flutter',
-            style: 'shadow-cyan-800'
-        },
-        {
-            id: 8,
-            scr: firebase,
-            title: 'Firebase',
-            style: 'shadow-yellow-800'
-        },
-        {
-            id: 9,
-            scr: python,
-            title: 'Python',
-            style: 'shadow-blue-400'
-        }
-    ]
-
     return (
-        <div name="skills" className='bg-gradient-to-b from-gray-800 to-black text-white
-     w-full h-full'>
-            <div className='max-w-screen-lg max-h-screen-lg p-4 mx-auto flex flex-col justify-center w-full '>
+        <div name="about" className='w-full h-auto bg-gradient-to-b from-gray-800 to-black text-white'>
+            <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-auto'>
                 <div className='pb-8'>
-                    <p className='text-4xl font-bold inline border-b-4 border-gray-400'>Skills</p>
-                    <p className='py-6'>These are the technologies I've worked with</p>
+
+                    <h2 className='text-4xl  font-bold inline border-b-4 border-gray-500'>About</h2>
+
                 </div>
 
-                <div className='w-full h-full grid grid-cols-2 text-center sm:grid-cols-3 gap-8 px-12 sm:px-0'>
-                    {
-                        techs().map(({ id, scr, title, style }) => (
+                <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
+                    I'm Ganesh Sanap, a dedicated DevOps Engineer with a wealth of experience spanning a wide range of DevOps tools and technologies. I bring proficiency in leading-edge CI/CD tools like Jenkins, GitLab CI/CD, and GitHub Actions, coupled with adeptness in version control systems such as Git. My expertise extends to configuration and infrastructure management tools like Ansible and Terraform, enabling me to automate infrastructure provisioning seamlessly. I excel in containerization and orchestration platforms like Docker and Kubernetes, and I'm well-versed in Infrastructure as Code (IaC) tools such as Terraform and AWS CloudFormation. My skills encompass monitoring and logging solutions like Prometheus, Grafana, and ELK Stack, as well as cloud platforms including AWS. With a proactive mindset and a passion for continuous improvement, I'm committed to enhancing the efficiency, reliability, and scalability of software development and delivery processes. I'm eager to leverage my expertise to drive innovation and success within any DevOps team. staying up to date with the latest trends and technologies in the Devops field.
+                </p>
+                <br />
+                <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
+                    In a constant pursuit of sharing knowledge and fostering growth, I've organized numerous technical workshops, imparting valuable insights on technologies like Python, Android, and Google Cloud to aspiring learners. With a commitment to personal development and a drive for making a positive impact within the tech community.
+                </p>
+                {/* <br />
+                <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
+                    I've worked for many projects for my clients as well as my personal projects. I also contributed for the GDSC RKMGEC web page. I have a Instagram page (@codewithbiki) where I create content for those who are just starting with programming and have more that 70k followers. I have learning attitude and growth mindset which helps me to collaborate with people and work for the society.
+                </p> */}
+                <div data-aos="zoom-in" data-aos-duration="500" className='mb-20 fade-in flex mx-auto items-center justify-center hover:scale-105 duration-300 rounded bg-gradient-to-b from-cyan-500 to-blue-500 lg:w-1/5 md:w-1/5 w-2/4 h-10 text-center cursor-pointer mt-10 gap-2'>
 
-                            <div data-aos="zoom-in" data-aos-duration="500" key={id} className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
-                                <img src={scr} alt="" className='w-20 mx-auto' />
-                                <p className='mt-4'>{title}</p>
-                            </div>
-                        ))
-                    }
+
+                    <AiOutlineCloudDownload />
+                    <a href="/" download>Download CV</a>
                 </div>
             </div>
         </div>
     )
 }
 
-export default Experience
+export default About
