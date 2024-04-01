@@ -24,9 +24,9 @@ const Home = () => {
                             <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md w-full'>
                                 I'm Ganesh Sanap, a dedicated DevOps Engineer with a wealth of experience spanning a wide range of DevOps tools and technologies. I bring proficiency in leading-edge CI/CD tools like Jenkins, GitLab CI/CD, and GitHub Actions, coupled with adeptness in version control systems such as Git. My expertise extends to configuration and infrastructure management tools like Ansible and Terraform, enabling me to automate infrastructure provisioning seamlessly. I excel in containerization and orchestration platforms like Docker and Kubernetes, and I'm well-versed in Infrastructure as Code (IaC) tools such as Terraform and AWS CloudFormation. My skills encompass monitoring and logging solutions like Prometheus, Grafana, and ELK Stack, as well as cloud platforms including AWS. With a proactive mindset and a passion for continuous improvement, I'm committed to enhancing the efficiency, reliability, and scalability of software development and delivery processes. I'm eager to leverage my expertise to drive innovation and success within any DevOps team. staying up to date with the latest trends and technologies in the Devops field.
                             </p>
-                            { <p data-aos="fade-in" data-aos-delay="800" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md'>
+                            {/* <p data-aos="fade-in" data-aos-delay="800" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md'>
                                 Co-Lead GDSC RKMGEC, Creator @codewithganesh, Google Cloud Facilitator, In-Charge E-Cell RKMGEC...
-                            </p> }
+                            </p> */}
 
                     <div className='flex flex-row gap-2'>
                         <Link to="projects" smooth duration={500} data-aos="fade-up" data-aos-delay="1000" data-aos-duration="2000" className='group rounded bg-gradient-to-r from-blue-600 to-cyan-600 w-1/3 h-8 flex items-center justify-center cursor-pointer mt-5 mb-28' >Portfolio
