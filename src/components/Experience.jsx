@@ -7,7 +7,7 @@ import terraform from '../assets/experience/Terraform.png'
 import jenkins from '../assets/experience/Jenkins.png'
 import prometheus from '../assets/experience/Prometheus.png'
 import grafana from '../assets/experience/Grafana.png'
-import python from '../assets/experience/python.png'
+import python from '../assets/experience/Python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -68,7 +68,7 @@ const Experience = () => {
         {
             id: 9,
             scr: python,
-            title: 'python',
+            title: 'Python',
             style: 'shadow-blue-400'
         }
     ]
