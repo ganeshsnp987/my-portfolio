@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import { AiOutlineCloudDownload } from 'react-icons/ai'
+import cv from "../assets/experience/Ganesh_Sanap.pdf"
 import '../App.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
