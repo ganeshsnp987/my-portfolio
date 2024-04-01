@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.147e1eb3.css",
-    "main.js": "/my-portfolio/static/js/main.a5affb63.js",
+    "main.js": "/my-portfolio/static/js/main.1524e9cc.js",
     "static/js/787.d9cf00ba.chunk.js": "/my-portfolio/static/js/787.d9cf00ba.chunk.js",
     "static/media/sandeshh.png": "/my-portfolio/static/media/sandeshh.9a26ae5b9d5cbbe7d299.png",
     "static/media/chatbot.png": "/my-portfolio/static/media/chatbot.05a026cf826e4bc579b7.png",
@@ -11,7 +11,7 @@
     "static/media/ide.png": "/my-portfolio/static/media/ide.e76b9b8f6be04b540365.png",
     "static/media/Grafana.png": "/my-portfolio/static/media/Grafana.f9dccfda288a01225433.png",
     "static/media/gist.png": "/my-portfolio/static/media/gist.8d02a91c4a4b6595cca8.png",
-    "static/media/python.png": "/my-portfolio/static/media/python.c51d40980f76d37e747d.png",
+    "static/media/Python.png": "/my-portfolio/static/media/Python.c51d40980f76d37e747d.png",
     "static/media/Ganesh_Dp.jpeg": "/my-portfolio/static/media/Ganesh_Dp.bed514ac81aedf995478.jpeg",
     "static/media/Docker.png": "/my-portfolio/static/media/Docker.6d1afdb456643d603142.png",
     "static/media/Ansible.png": "/my-portfolio/static/media/Ansible.7368ce1f606a44f4727f.png",
@@ -19,11 +19,11 @@
     "static/media/Terraform.png": "/my-portfolio/static/media/Terraform.bd24e438b686b0d14560.png",
     "index.html": "/my-portfolio/index.html",
     "main.147e1eb3.css.map": "/my-portfolio/static/css/main.147e1eb3.css.map",
-    "main.a5affb63.js.map": "/my-portfolio/static/js/main.a5affb63.js.map",
+    "main.1524e9cc.js.map": "/my-portfolio/static/js/main.1524e9cc.js.map",
     "787.d9cf00ba.chunk.js.map": "/my-portfolio/static/js/787.d9cf00ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147e1eb3.css",
-    "static/js/main.a5affb63.js"
+    "static/js/main.1524e9cc.js"
   ]
 }
