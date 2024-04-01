@@ -19,11 +19,12 @@ const About = () => {
                 </div>
 
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    I embarked my journey as a B.Tech Computer Science & Engineering student at Ramkrishna Mahato Government Engineering College in 2020. Along the way, I fearlessly explored various fields, including Graphic Designing, Content Creation, Freelancing, and Entrepreneurship. I delved into the world of cutting-edge technologies, such as Python, Cloud computing, React, Flutter, and Firebase. I also took my passion for technology and leadership to new heights by co-establishing Google Developer Student Clubs and the E-Cell in my college, alongside my equally enthusiastic classmates. At present, I serve GDSC RKMGEC as the Co-Lead and holds the significant responsibility of being the In-Charge of E-Cell RKMGEC.
+                    
+                I'm Ganesh Sanap, a seasoned DevOps Engineer skilled in a plethora of cutting-edge tools like Jenkins, GitLab CI/CD, and GitHub Actions. With expertise in Git for version control and automation prowess using Ansible, Puppet, and Chef, I seamlessly provision infrastructure. I thrive in containerization with Docker and Kubernetes, and wield Terraform and AWS CloudFormation for Infrastructure as Code. Monitoring with Prometheus and Grafana, alongside cloud mastery in AWS, Azure, and GCP, ensures top-notch performance. Committed to continuous improvement, I'm dedicated to enhancing software delivery processes and fostering innovation within any DevOps team.
                 </p>
                 <br />
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                    In a constant pursuit of sharing knowledge and fostering growth, I've organized numerous technical workshops, imparting valuable insights on technologies like Python, Android, and Google Cloud to aspiring learners. With a commitment to personal development and a drive for making a positive impact within the tech community.
+                    In a constant pursuit of sharing knowledge and fostering growth, I've organized numerous technical workshops, imparting valuable insights on technologies like Docker, kubernetes and AWS Cloud to aspiring learners. With a commitment to personal development and a drive for making a positive impact within the Devops community.
                 </p>
                 {/* <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
