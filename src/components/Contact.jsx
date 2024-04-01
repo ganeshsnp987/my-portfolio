@@ -27,6 +27,7 @@ const Contact = () => {
     // Redirect to the "Thank You" page
     window.location.href = "https://drive.google.com/file/d/10Ph9QYsTFUQKp3oTAd4bU2cjQuh-eUJX/view?usp=sharing"; // Replace "thankyou.html" with the URL of your "Thank You" page
 });
+                        }
 
                     </form>
                 </div>
