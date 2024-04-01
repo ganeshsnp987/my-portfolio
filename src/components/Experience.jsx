@@ -1,12 +1,12 @@
 import React, { useEffect } from 'react'
-import html from '../assets/experience/Git.png'
-import css from '../assets/experience/Docker.png'
-import javascript from '../assets/experience/Jenkins.png'
-import node from '../assets/experience/Kubernetes.png'
-import flutter from '../assets/experience/Ansible.png'
-import firebase from '../assets/experience/Terraform.png'
-import react from '../assets/experience/Prometheus.png'
-import tailwind from '../assets/experience/Grafana.png'
+import git from '../assets/experience/Git.png'
+import docker from '../assets/experience/Docker.png'
+import jenkins from '../assets/experience/Jenkins.png'
+import kubernetes from '../assets/experience/Kubernetes.png'
+import ansible from '../assets/experience/Ansible.png'
+import terraform from '../assets/experience/Terraform.png'
+import prometheus from '../assets/experience/Prometheus.png'
+import grafana from '../assets/experience/Grafana.png'
 import python from '../assets/experience/Python.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -38,13 +38,13 @@ const Experience = () => {
         {
             id: 4,
             scr: Kubernetes,
-            title: 'REACT',
+            title: 'Kubernetes',
             style: 'shadow-blue-600'
         },
         {
             id: 5,
             scr: Ansible,
-            title: 'Tailwind',
+            title: 'Ansible',
             style: 'shadow-sky-500'
         },
         {
