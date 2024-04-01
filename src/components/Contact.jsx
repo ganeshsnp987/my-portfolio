@@ -23,12 +23,7 @@ const Contact = () => {
                         <textarea data-aos="fade-in" data-aos-duration="900" name="message" required rows="10" placeholder='Enter your message' className='p-2 bg-transparent border-2 m-2 rounded-md text-white focus:outline-none'></textarea>
                         <button data-aos="zoom-in" data-aos-duration="1000" type="submit" className='text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300'>Let's Talk</button>
                     
-                        document.getElementById("submitButton").addEventListener("click", function() {
-    // Redirect to the "Thank You" page
-    window.location.href = "https://drive.google.com/file/d/10Ph9QYsTFUQKp3oTAd4bU2cjQuh-eUJX/view?usp=sharing"; // Replace "thankyou.html" with the URL of your "Thank You" page
-});
-                        }
-
+                     
                     </form>
                 </div>
             </div>
