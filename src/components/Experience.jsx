@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Git from '../assets/experience/Git.png'
+import git from '../assets/experience/Git.png'
 import docker from '../assets/experience/Docker.png'
 import jenkins from '../assets/experience/Jenkins.png'
 import kubernetes from '../assets/experience/Kubernetes.png'
