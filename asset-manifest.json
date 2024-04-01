@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.147e1eb3.css",
-    "main.js": "/my-portfolio/static/js/main.80c3fb43.js",
+    "main.js": "/my-portfolio/static/js/main.bd2ecd83.js",
     "static/js/787.d9cf00ba.chunk.js": "/my-portfolio/static/js/787.d9cf00ba.chunk.js",
     "static/media/sandeshh.png": "/my-portfolio/static/media/sandeshh.9a26ae5b9d5cbbe7d299.png",
     "static/media/chatbot.png": "/my-portfolio/static/media/chatbot.05a026cf826e4bc579b7.png",
     "static/media/upscale.png": "/my-portfolio/static/media/upscale.d1d929d637564d36449c.png",
+    "static/media/Kubernetes.png": "/my-portfolio/static/media/Kubernetes.ce1f338cb33ce1911140.png",
     "static/media/shopeasy.png": "/my-portfolio/static/media/shopeasy.7d9a081d08b506c1505a.png",
     "static/media/ide.png": "/my-portfolio/static/media/ide.e76b9b8f6be04b540365.png",
     "static/media/gist.png": "/my-portfolio/static/media/gist.8d02a91c4a4b6595cca8.png",
@@ -18,14 +19,13 @@
     "static/media/flutter.png": "/my-portfolio/static/media/flutter.ed72a48ae8dedc1bde5f.png",
     "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/my-portfolio/index.html",
     "main.147e1eb3.css.map": "/my-portfolio/static/css/main.147e1eb3.css.map",
-    "main.80c3fb43.js.map": "/my-portfolio/static/js/main.80c3fb43.js.map",
+    "main.bd2ecd83.js.map": "/my-portfolio/static/js/main.bd2ecd83.js.map",
     "787.d9cf00ba.chunk.js.map": "/my-portfolio/static/js/787.d9cf00ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147e1eb3.css",
-    "static/js/main.80c3fb43.js"
+    "static/js/main.bd2ecd83.js"
   ]
 }
