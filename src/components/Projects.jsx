@@ -46,8 +46,8 @@ const Projects = () => {
       id: 5,
       src: Upscale,
       desc: "AI Image Upscaler",
-      demo: "https://upscaleai.vercel.app/",
-      code: "https://github.com/dipayansarkar47/upscale-ai"
+      demo: "https://ganesh-image-upscaler.vercel.app/",
+      code: "https://github.com/ganeshsnp987/AI-Image-Upscaler"
     },
     {
       id: 6,
