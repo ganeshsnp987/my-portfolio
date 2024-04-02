@@ -17,21 +17,21 @@ const Projects = () => {
     {
       id: 1,
       src: Sandesh,
-      desc: "Sandesh is a Chat App made using ReactJS + Tailwind CSS + ChatEngine API Service + Firebase authentication...",
+      desc: "Sandesh is a Chat App made using ReactJS + Tailwind CSS + ChatEngine API Service + Firebase authentication",
       demo: "https://sandeshh.netlify.app/",
       code: "https://github.com/dipayansarkar47/Sandesh"
     },
     {
       id: 2,
       src: ShopEasy,
-      desc: "This Full-Stack ShopKaro e-commerce website is made using ReactJS, Tailwind CSS, Firebase....",
+      desc: "This Full-Stack ShopKaro e-commerce website is made using ReactJS, Tailwind CSS, Firebase",
       demo: "https://shopeasyy.vercel.app/",
       code: "https://github.com/dipayansarkar47/shopeasy"
     },
     {
       id: 3,
       src: Chatbot,
-      desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people.",
+      desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people",
       demo: "https://cwbbot.vercel.app/",
       code: "https://github.com/dipayansarkar47/ai-chatbot"
     },
@@ -65,7 +65,7 @@ const Projects = () => {
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <h2 className='text-4xl font-bold inline border-b-4 border-gray-400'>Projects</h2>
-          <p className='py-6'>Check out some of my work </p>
+          <p className='py-6'>Explore a selection of my projects </p>
         </div>
         <div   className='grid sm:grid-cols-2 md:grid-cols-3 mb-20 gap-8 px-12 sm:px-0'>
           {
