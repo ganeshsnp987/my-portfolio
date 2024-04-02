@@ -38,21 +38,21 @@ const Projects = () => {
     {
       id: 4,
       src: Ide,
-      // desc: "Keeper is a simple note taking application made using Flutter...",
+      desc: "Online Code Editor",
       demo: "https://opeditor.vercel.app/",
       code: "https://github.com/dipayansarkar47/online-code-editor"
     },
     {
       id: 5,
       src: Upscale,
-      // desc: "It is a Weather application which shows temperatures of various cities across the globe made using REST API...",
+      desc: "AI Image Upscaler",
       demo: "https://upscaleai.vercel.app/",
       code: "https://github.com/dipayansarkar47/upscale-ai"
     },
     {
       id: 6,
       src: Gist,
-      // desc: "It is a Face-Detection application made using Python and Computer Vision...",
+      desc: "Summarize Articles with OpenAI GPT-4",
       demo: "https://gist-ai.vercel.app/",
       code: "https://github.com/dipayansarkar47/Gist.AI-Summarizer"
     },
