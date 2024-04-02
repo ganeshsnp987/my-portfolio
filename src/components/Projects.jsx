@@ -18,7 +18,7 @@ const Projects = () => {
       id: 1,
       src: Sandesh,
       desc: "Sandesh-Chat App",
-      demo: "https://ganesh-chat-app.vercel.app/,
+      demo: "https://ganesh-chat-app.vercel.app/",
       code: "https://github.com/ganeshsnp987/Chat-App"
     },
     {
