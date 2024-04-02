@@ -17,21 +17,21 @@ const Projects = () => {
     {
       id: 1,
       src: Sandesh,
-      desc: "Sandesh is a Chat App made using ReactJS + Tailwind CSS + ChatEngine API Service + Firebase authentication",
+      desc: "Sandesh-Chat App",
       demo: "https://sandeshh.netlify.app/",
       code: "https://github.com/dipayansarkar47/Sandesh"
     },
     {
       id: 2,
       src: ShopEasy,
-      desc: "This Full-Stack ShopKaro e-commerce website is made using ReactJS, Tailwind CSS, Firebase",
+      desc: "Full-Stack ShopKaro",
       demo: "https://shopeasyy.vercel.app/",
       code: "https://github.com/dipayansarkar47/shopeasy"
     },
     {
       id: 3,
       src: Chatbot,
-      desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people",
+      desc: "AI Chatbot using GPT-4",
       demo: "https://cwbbot.vercel.app/",
       code: "https://github.com/dipayansarkar47/ai-chatbot"
     },
