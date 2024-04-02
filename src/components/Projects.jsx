@@ -53,8 +53,8 @@ const Projects = () => {
       id: 6,
       src: Gist,
       desc: "Summarize Articles with OpenAI GPT-4",
-      demo: "https://gist-ai.vercel.app/",
-      code: "https://github.com/dipayansarkar47/Gist.AI-Summarizer"
+      demo: "https://gist-ai-summarizer.vercel.app/",
+      code: "https://github.com/ganeshsnp987/Gist-AI-Summarizer"
     },
   ]
 
