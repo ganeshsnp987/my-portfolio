@@ -1,7 +1,7 @@
 import React,{useEffect} from 'react'
 import Youtube from '../assets/projects/Youtube.png'
 import Netflix from '../assets/projects/Netflix.png'
-import Chatbot from '../assets/projects/chatbot.png'
+import Hotstar from '../assets/projects/Hotstar.png'
 import Ide from '../assets/projects/ide.png'
 import Gist from '../assets/projects/shopeasy.png'
 import Upscale from '../assets/projects/upscale.png'
@@ -30,10 +30,10 @@ const Projects = () => {
     },
     {
       id: 3,
-      src: Chatbot,
-      desc: "AI Chatbot using GPT-4",
-      demo: "https://cwbbot.vercel.app/",
-      code: "https://github.com/dipayansarkar47/ai-chatbot"
+      src: Hotstar,
+      desc: "Hotstar Clone App",
+      demo: "https://hotstar-app.vercel.app/",
+      code: "https://github.com/ganeshsnp987/Hotstar-App.git"
     },
     {
       id: 4,
