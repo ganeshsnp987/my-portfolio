@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react'
 import Youtube from '../assets/projects/Youtube.png'
-import Gist from '../assets/projects//gist.png'
+import Netflix from '../assets/projects/Netflix.png'
 import Chatbot from '../assets/projects/chatbot.png'
 import Ide from '../assets/projects/ide.png'
 import ShopEasy from '../assets/projects/shopeasy.png'
@@ -23,10 +23,10 @@ const Projects = () => {
     },
     {
       id: 2,
-      src: ShopEasy,
-      desc: "Full-Stack ShopKaro",
+      src: Netflix,
+      desc: "Netflix Clone App",
       demo: "https://shopeasyy.vercel.app/",
-      code: "https://github.com/dipayansarkar47/shopeasy"
+      code: "https://github.com/ganeshsnp987/Netflix-DevSecOps-Project.git"
     },
     {
       id: 3,
