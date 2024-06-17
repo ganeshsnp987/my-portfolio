@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.147e1eb3.css",
-    "main.js": "/my-portfolio/static/js/main.d2722e56.js",
+    "main.js": "/my-portfolio/static/js/main.b18e381c.js",
     "static/js/787.d9cf00ba.chunk.js": "/my-portfolio/static/js/787.d9cf00ba.chunk.js",
     "static/media/upscale.png": "/my-portfolio/static/media/upscale.d1d929d637564d36449c.png",
     "static/media/Kubernetes.png": "/my-portfolio/static/media/Kubernetes.ce1f338cb33ce1911140.png",
     "static/media/shopeasy.png": "/my-portfolio/static/media/shopeasy.7d9a081d08b506c1505a.png",
-    "static/media/ide.png": "/my-portfolio/static/media/ide.e76b9b8f6be04b540365.png",
     "static/media/Grafana.png": "/my-portfolio/static/media/Grafana.f9dccfda288a01225433.png",
     "static/media/Youtube.png": "/my-portfolio/static/media/Youtube.cc318eada6a2026ee586.png",
     "static/media/Python.png": "/my-portfolio/static/media/Python.c51d40980f76d37e747d.png",
@@ -19,11 +18,11 @@
     "static/media/Terraform.png": "/my-portfolio/static/media/Terraform.bd24e438b686b0d14560.png",
     "index.html": "/my-portfolio/index.html",
     "main.147e1eb3.css.map": "/my-portfolio/static/css/main.147e1eb3.css.map",
-    "main.d2722e56.js.map": "/my-portfolio/static/js/main.d2722e56.js.map",
+    "main.b18e381c.js.map": "/my-portfolio/static/js/main.b18e381c.js.map",
     "787.d9cf00ba.chunk.js.map": "/my-portfolio/static/js/787.d9cf00ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147e1eb3.css",
-    "static/js/main.d2722e56.js"
+    "static/js/main.b18e381c.js"
   ]
 }
