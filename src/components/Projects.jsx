@@ -1,5 +1,5 @@
 import React,{useEffect} from 'react'
-import Sandesh from '../assets/projects/sandeshh.png'
+import Youtube from '../assets/projects/Youtube.png'
 import Gist from '../assets/projects//gist.png'
 import Chatbot from '../assets/projects/chatbot.png'
 import Ide from '../assets/projects/ide.png'
@@ -16,10 +16,10 @@ const Projects = () => {
   const Projects = () => [
     {
       id: 1,
-      src: Sandesh,
-      desc: "Sandesh-Chat App",
-      demo: "https://ganesh-chat-app.vercel.app/",
-      code: "https://github.com/ganeshsnp987/Chat-App"
+      src: Youtube,
+      desc: "YouTube Clone App",
+      demo: "https://youtube-clone-app-virid.vercel.app/",
+      code: "https://github.com/ganeshsnp987/Youtube-clone-app.git"
     },
     {
       id: 2,
