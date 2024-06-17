@@ -25,7 +25,7 @@ const Projects = () => {
       id: 2,
       src: Netflix,
       desc: "Netflix Clone App",
-      demo: "https://shopeasyy.vercel.app/",
+      demo: "https://netflix-dev-sec-ops-project.vercel.app/",
       code: "https://github.com/ganeshsnp987/Netflix-DevSecOps-Project.git"
     },
     {
