@@ -2,7 +2,7 @@ import React,{useEffect} from 'react'
 import Youtube from '../assets/projects/Youtube.png'
 import Netflix from '../assets/projects/Netflix.png'
 import Hotstar from '../assets/projects/Hotstar.png'
-import Ide from '../assets/projects/ide.png'
+import Reddit from '../assets/projects/Reddit.png'
 import Gist from '../assets/projects/shopeasy.png'
 import Upscale from '../assets/projects/upscale.png'
 import AOS from 'aos'
@@ -37,10 +37,10 @@ const Projects = () => {
     },
     {
       id: 4,
-      src: Ide,
-      desc: "Online Code Editor",
-      demo: "https://opeditor.vercel.app/",
-      code: "https://github.com/dipayansarkar47/online-code-editor"
+      src: Reddit,
+      desc: "Reddit Clone App",
+      demo: "https://reddit-clone-k8s-ingress.vercel.app/",
+      code: "https://github.com/ganeshsnp987/reddit-clone-k8s-ingress.git"
     },
     {
       id: 5,
