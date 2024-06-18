@@ -3,7 +3,7 @@ import Youtube from '../assets/projects/Youtube.png'
 import Netflix from '../assets/projects/Netflix.png'
 import Hotstar from '../assets/projects/Hotstar.png'
 import Reddit from '../assets/projects/Reddit.png'
-import Gist from '../assets/projects/shopeasy.png'
+import Zomato from '../assets/projects/Zomato.png'
 import Amazon from '../assets/projects/Amazon.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
@@ -51,10 +51,10 @@ const Projects = () => {
     },
     {
       id: 6,
-      src: Gist,
-      desc: "Summarize Articles with OpenAI GPT-4",
-      demo: "https://gist-ai-summarizer.vercel.app/",
-      code: "https://github.com/ganeshsnp987/Gist-AI-Summarizer"
+      src: Zomato,
+      desc: "Zomato Clone App",
+      demo: "https://zomato-clone-app-phi.vercel.app/",
+      code: "https://github.com/ganeshsnp987/Zomato-Clone-App.git"
     },
   ]
 
