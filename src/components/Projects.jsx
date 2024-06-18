@@ -4,7 +4,7 @@ import Netflix from '../assets/projects/Netflix.png'
 import Hotstar from '../assets/projects/Hotstar.png'
 import Reddit from '../assets/projects/Reddit.png'
 import Gist from '../assets/projects/shopeasy.png'
-import Upscale from '../assets/projects/upscale.png'
+import Amazon from '../assets/projects/Amazon.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -44,10 +44,10 @@ const Projects = () => {
     },
     {
       id: 5,
-      src: Upscale,
-      desc: "AI Image Upscaler",
-      demo: "https://ganesh-image-upscaler.vercel.app/",
-      code: "https://github.com/ganeshsnp987/AI-Image-Upscaler"
+      src: Amazon,
+      desc: "Amazon Clone App",
+      demo: "https://amazon-clone-app-five.vercel.app/",
+      code: "https://github.com/ganeshsnp987/Amazon-clone-app.git"
     },
     {
       id: 6,
